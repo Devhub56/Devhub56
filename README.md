@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is a collection of repos for testing stuff for a few other projects I'm working on.
+This is a collection of repos for testing stuff and a few other projects I'm working on.
 <!--
 **Devhub56/Devhub56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
