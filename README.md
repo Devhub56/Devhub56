@@ -25,10 +25,12 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=devhub56&show_icons=true&theme=radical&count_private=true" alt="devhub56 Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devhub56&theme=radical)
+
+
 ---
 
 ### 🛠️ Technical Toolkit
