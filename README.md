@@ -23,10 +23,7 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
 
 ### 📊 GitHub Statistics
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddevhub56%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" alt="devhub56 Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddevhub56%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" />
-</p>
+<p align="left"> <img src="https://www.google.com/search?q=https://github-readme-stats-eight-theta.vercel.app/api%3Fusername%3Ddevhub56%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" alt="devhub56 Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/%3Fusername%3Ddevhub56%26layout%3Dcompact%26theme%3Dradical" alt="Top Languages" /> </p>
 
 ---
 
