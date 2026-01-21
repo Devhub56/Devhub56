@@ -8,7 +8,7 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
 
 | Project | Technical Summary | Stack |
 | --- | --- | --- |
-| **[Admond Safaris](https://admondsafaris.com)** | High-performance tourism platform with dynamic booking engines and optimized SEO. | React, Node.js, Tailwind, AWS |
+| **[Admond Safaris](https://admondsafaris.com)** | High-performance tourism platform with dynamic booking engines and optimized SEO. | React, vite, Tailwind, supabase |
 | **[Wanda Hospital](https://wanda.ug)** | Health-focused web application designed for streamlined service delivery and scalable data management. | **Vite**, React, Express, PostgreSQL |
 | **[Franciscans in Uganda (Grey Friars)](https://greyfriars.ug)** | Institutional platform (greyfriars.ug / franciscans.ug) developed for community engagement. | Python, Django, JavaScript, SQL |
 
