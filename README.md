@@ -28,9 +28,7 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
 
-<p align="left">
-  ![GitHub Streak](https://streak-stats.demolab.com?user=devhub56&theme=radical)
-</p>
+
 
 ---
 
