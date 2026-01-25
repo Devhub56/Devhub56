@@ -34,7 +34,7 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
 [![GitHub Streak](https://img.shields.io/badge/GitHub-Streak_Active-red?style=for-the-badge&logo=github)](https://github.com/devhub56)
 [![Contributions](https://img.shields.io/badge/Contributions-1.5k+-orange?style=for-the-badge&logo=git)](https://github.com/devhub56)
 
-![GitHub Streak](https://readme-stats-fast.vercel.app/api/streak?user=devhub56&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app/?user=devhub56&theme=radical&cache_seconds=86400)
 
 
 ---
