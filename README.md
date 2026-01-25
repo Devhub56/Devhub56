@@ -29,7 +29,7 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devhub56&theme=radical" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=devhub56&theme=radical)
 </p>
 
 ---
