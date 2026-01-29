@@ -1,8 +1,8 @@
 name: GitHub-Readme-Stats
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   stats:
@@ -11,7 +11,7 @@ jobs:
       - name: Generate Stats
         uses: anuraghazra/github-readme-stats@master
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          gh_token: ${{ secrets.GH_PAT }}
           show_icons: true
           theme: radical
           count_private: true
