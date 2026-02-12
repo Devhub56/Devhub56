@@ -4,23 +4,6 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Technical Summary | Stack |
-| --- | --- | --- |
-| **[Admond Safaris](https://admondsafaris.com)** | High-performance tourism platform with dynamic booking engines and optimized SEO. | React, vite, Tailwind, supabase |
-| **[Wanda Hospital](https://wanda.ug)** | Health-focused web application designed for streamlined service delivery and scalable data management. | **Vite**, React, Express, PostgreSQL |
-| **[Franciscans in Uganda (Grey Friars)](https://greyfriars.ug)** | Institutional platform (greyfriars.ug / franciscans.ug) developed for community engagement. | Python, Django, JavaScript, SQL |
-
-### 🛠️ In Progress
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| **[Bee Pretty MUA](https://bee-pretty-mua.vercel.app)** | A premium beauty and makeup artistry portfolio with integrated scheduling. | Vite, React, Vercel |
-| **[Keylon V4](https://keylonv4.vercel.app)** | Next-generation iteration of the Keylon platform focusing on enhanced performance. | React, Tailwind, Vite |
-
----
-
 ### 📊 GitHub Statistics
 
 <p align="left">
