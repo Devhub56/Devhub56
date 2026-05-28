@@ -13,19 +13,6 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
 
 ---
 
-### 📊 My Programming Languages
-
-| Language | Percentage | Bytes |
-|----------|-----------|-------|
-| **Python** | 64.4% | 18,685,312 |
-| **TypeScript** | 5.9% | 1,728,206 |
-| **JavaScript** | 1.4% | 407,713 |
-| **CSS** | 0.6% | 169,470 |
-| **HTML** | 0.2% | 64,313 |
-| **Other** | 27.5% | 7,965,786 |
-
----
-
 ### 📊 Performance Metrics
 [![GitHub Streak](https://img.shields.io/badge/GitHub-Streak_Active-red?style=for-the-badge&logo=github)](https://github.com/devhub56)
 [![Contributions](https://img.shields.io/badge/Contributions-1.5k+-orange?style=for-the-badge&logo=git)](https://github.com/devhub56)
