@@ -1,6 +1,6 @@
 # Full-Stack Web Developer & Data Scientist
 
-Full-Stack Web Developer. I craft robust, user-friendly web applications that scale seamlessly and deliver exceptional performance. Specializing in modern JavaScript frameworks and Data Science, I bridge the gap between software engineering and intelligent, data-driven platforms.
+Full-Stack Web Developer. I craft robust, user-friendly web applications that scale seamlessly and deliver exceptional performance. Specializing in modern JavaScript frameworks and Data Science, I [...]
 
 ---
 
@@ -8,8 +8,21 @@ Full-Stack Web Developer. I craft robust, user-friendly web applications that sc
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devhub56&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="devhub56 Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical&count_private=true&cache_bust=1" alt="Top Languages" />
 </p>
+
+---
+
+### 📊 My Programming Languages
+
+| Language | Percentage | Bytes |
+|----------|-----------|-------|
+| **Python** | 64.4% | 18,685,312 |
+| **TypeScript** | 5.9% | 1,728,206 |
+| **JavaScript** | 1.4% | 407,713 |
+| **CSS** | 0.6% | 169,470 |
+| **HTML** | 0.2% | 64,313 |
+| **Other** | 27.5% | 7,965,786 |
 
 ---
 
