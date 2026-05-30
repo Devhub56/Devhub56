@@ -14,10 +14,17 @@ I build web applications — the kind that hold up under real traffic and don't 
 ---
 
 ### 📊 Performance Metrics
-[![GitHub Streak](https://img.shields.io/badge/GitHub-Streak_Active-red?style=for-the-badge&logo=github)](https://github.com/devhub56)
-[![Contributions](https://img.shields.io/badge/Contributions-1.5k+-orange?style=for-the-badge&logo=git)](https://github.com/devhub56)
-![GitHub Streak](https://github-readme-streak-stats-ten-peach.vercel.app/?user=devhub56&theme=radical&cache_seconds=86400)
-
+<p align="center">
+  <a href="https://github.com/devhub56">
+    <img src="https://img.shields.io/badge/GitHub-Streak_Active-red?style=for-the-badge&logo=github" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/devhub56">
+    <img src="https://img.shields.io/badge/Contributions-1.5k+-orange?style=for-the-badge&logo=git" alt="Contributions" />
+  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=devhub56&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🛠️ Technical Toolkit
