@@ -1,11 +1,11 @@
 # Full-Stack Web Developer & Data Scientist
 
-I build web applications — the kind that hold up under real traffic and don't fall apart when requirements change. My main focus is JavaScript (React, Vue, Node) and Python, though most of my recent work sits at the intersection of web development and data science: apps that don't just display data but do something useful with it.
+I build web applications — the kind that hold up under real traffic and don't fall apart when requirements change. My main focus is JavaScript (React, Vue, Node) and Python, though most of my recent work spans the full spectrum: from designing systems that won't melt under load to training models that actually produce actionable insights.
 
 ---
 
-### 📊 GitHub Statistics
 <p align="center">
+  <h3>📊 GitHub Statistics</h3>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devhub56&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="devhub56 Stats" />
   <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical&count_private=true&cache_seconds=3600" alt="Top Languages" />
@@ -13,8 +13,8 @@ I build web applications — the kind that hold up under real traffic and don't 
 
 ---
 
-### 📊 Performance Metrics
 <p align="center">
+  <h3>📊 Performance Metrics</h3>
   <a href="https://github.com/devhub56">
     <img src="https://img.shields.io/badge/GitHub-Streak_Active-red?style=for-the-badge&logo=github" alt="GitHub Streak" />
   </a>
