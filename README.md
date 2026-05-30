@@ -5,8 +5,9 @@ I build web applications — the kind that hold up under real traffic and don't 
 ---
 
 ### 📊 GitHub Statistics
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devhub56&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="devhub56 Stats" />
+  <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical&count_private=true&cache_seconds=3600" alt="Top Languages" />
 </p>
 
