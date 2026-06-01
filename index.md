@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+# Full-Stack Web Developer & Data Scientist
 
-You can use the [editor on GitHub](https://github.com/Devhub56/Devhub56/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I build web applications — the kind that hold up under real traffic and don't fall apart when requirements change. My main focus is JavaScript (React, Vue, Node) and Python, though most of my recent work spans the full spectrum: from designing systems that won't melt under load to training models that actually produce actionable insights.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+<p align="center">
+  <h3>📊 GitHub Statistics</h3>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devhub56&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="devhub56 Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical&count_private=true&cache_seconds=3600" alt="Top Languages" />
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+<p align="center">
+  <h3>📊 Performance Metrics</h3>
+  <a href="https://github.com/devhub56">
+    <img src="https://img.shields.io/badge/GitHub-Streak_Active-red?style=for-the-badge&logo=github" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/devhub56">
+    <img src="https://img.shields.io/badge/Contributions-1.5k+-orange?style=for-the-badge&logo=git" alt="Contributions" />
+  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats-ten-peach.vercel.app/?user=devhub56&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+### 🛠️ Technical Toolkit
 
-1. Numbered
-2. List
+**Web Development**
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js, Vite, Tailwind CSS, Bootstrap
+* **Backend:** Node.js, Express.js, Python, Django, RESTful APIs
+* **Stacks:** MERN, MEAN
+* **Database:** MongoDB, PostgreSQL, MySQL, Firebase, Supabase
+* **DevOps/Cloud:** AWS, Vercel, Git, GitHub
 
-**Bold** and _Italic_ and `Code` text
+**Data Science & AI**
+* **Machine Learning:** Supervised/Unsupervised, Deep Learning, Reinforcement Learning
+* **AI Frameworks:** TensorFlow, PyTorch, Scikit-learn
+* **Big Data:** Apache Spark, Hadoop
+* **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+* **Cloud AI:** AWS SageMaker, Google Cloud AI, Azure ML
+* **Specialized:** NLP, Computer Vision, Generative AI, Statistical Modeling
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 💡 What I actually bring to a project
 
-### Jekyll Themes
+* **Architecture that scales:** I lean toward clean, modular code — SPAs and SaaS products that are easy to hand off and easier to extend.
+* **ML that ships:** I've taken models from notebook to production. I care about whether the thing actually works in the real world, not just on the test set.
+* **Agile without the buzzwords:** I've worked in cross-functional teams, done the standups, reviewed the PRs, mentored junior devs. It's just how I work.
+* **Design-to-code:** I'm comfortable in Figma and I know what makes a UI actually convert, not just look good in a mockup.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Devhub56/Devhub56/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 📬 Connect with Me
+[Email](mailto:devhub56@gmail.com)
