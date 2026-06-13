@@ -8,7 +8,7 @@ I build web applications — the kind that hold up under real traffic and don't 
   <h3>📊 GitHub Statistics</h3>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=devhub56&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="devhub56 Stats" />
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devhub56&layout=compact&theme=radical&count_private=true&cache_seconds=3600" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devhub56&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
